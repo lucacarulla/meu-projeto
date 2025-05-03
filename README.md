@@ -1,2 +1,3 @@
-# meu-projeto
-Exemplo de descrição do meu projeto.
+# Repositório Remoto Depois do Clone
+
+Descrição inserida no repositório remoto depois do clone.
